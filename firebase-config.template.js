@@ -12,13 +12,14 @@
 // IMPORTANT: Never commit this file with real credentials to public repositories!
 
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY_HERE",
-    authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_PROJECT_ID.appspot.com",
-    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-    appId: "YOUR_APP_ID"
-};
+    apiKey: "AIzaSyAwOEeOVG29O8DJRzmEOKxmRXoR8R2b5cU",
+    authDomain: "omnixam---dl.firebaseapp.com",
+    projectId: "omnixam---dl",
+    storageBucket: "omnixam---dl.firebasestorage.app",
+    messagingSenderId: "218730322717",
+    appId: "1:218730322717:web:f7e90b2c1a232538435ff4",
+    measurementId: "G-9X4XCBZKV6"
+  };
 
 // Example of a real config (these are fake values):
 // const firebaseConfig = {
